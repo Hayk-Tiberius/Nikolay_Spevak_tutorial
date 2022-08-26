@@ -1,10 +1,17 @@
 .Photo_Spevak img{
 	width: 50%;
-	margin-bottom: 500px;
 }
 .Titleofmenu{
 	text-align:center;
 	font-size: 100px;
+}
+.ssilka{
+	text-align:center;
+	font-size: 100px;
+	margin-up: 15px;
+}
+.ssilka:link{
+	color: orange
 }
 body{
 	background: #f9ff17;
